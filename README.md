@@ -17,7 +17,7 @@
 ========================================
 - Facebook: https://www.faceboock.com/huyyt0911
 - Youtube: HituilaHuy TV
-- Nhóm CastleVN: https://www.bit.do/groupcastlevn
+- Nhóm CastleVN: https://www.bit.do/nhomcastlevn
 - Vote Server CastleVN: https://www.bit.do/votecastlevn
 
 # My Server MCPE 1.14
