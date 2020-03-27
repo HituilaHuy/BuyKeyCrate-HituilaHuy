@@ -1,0 +1,20 @@
+name: BuyKey
+main: BuyKey\Main
+version: 1.0
+api: 3.0.0
+author: HituilaHuy
+# Edit Form BuyMoney By HituilaHuy
+# Team CastleVN
+# Facebook: facebook.com/huyyt0911
+# Youtube: HituilaHuy Tv
+# =====================
+# IP: Castlevnpe.ddns.net
+# Port: 19132
+depent:
+- EconomyAPi
+- PiggyCrate
+
+commands:
+  buykey:
+    aliases: ["muakey"]
+    description: Mở Menu Mua Key Bằng CastleCoin
