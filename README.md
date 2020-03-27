@@ -15,6 +15,7 @@
 * Translated by: Google Translate
 
 ========================================
+# Info Author
 - Facebook: https://www.faceboock.com/huyyt0911
 - Youtube: HituilaHuy TV
 - Nhóm CastleVN: https://www.bit.do/nhomcastlevn
