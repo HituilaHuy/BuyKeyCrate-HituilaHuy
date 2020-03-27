@@ -18,7 +18,7 @@ use pocketmine\command\ConsoleCommandSender;
 use pocketmine\command\CommandSender;
 use pocketmine\command\Command;
 use pocketmine\utils\TextFormat as C;
-use MuaMoney\Main;
+use Buykey\Main;
 
 class Main extends PluginBase implements Listener {
 	public function onEnable(){
